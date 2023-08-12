@@ -61,14 +61,14 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-                When I'm not coding, I like to keep myself active! I spend a lot of time 
+                When I&#39;m not coding, I like to keep myself active! I spend a lot of time 
                 playing basketball as well as lifting. I also enjoy spending quality
-                time with my family and friends. When I'm alone, you'll often find me watching movies and 
+                time with my family and friends. When I&#39;m alone, you&#39;ll often find me watching movies and 
                 TV shows.
             </p>
             <br />
             <p>
-               As of now, I've completed two internships. My most recent one was at National Grid.
+               As of now, I&#39;ve completed two internships. My most recent one was at National Grid.
                National Grid is an energy company. Here, I worked as a part of the Advanced Distribution Management
                System team, where I spent most of my time writing automation scripts and programs in Python. I was also
                a software engineering intern at the National Center for Technology and Dispute Resolution.
@@ -76,7 +76,7 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-            Ever since I was young, I've had a strong passion for technology.
+            Ever since I was young, I&#39;ve had a strong passion for technology.
             The endless possibilities of what humans can accomplish with technology
             fascinates me. I hope to use my skills so that I can play my
             part in the advancement of human capability.
