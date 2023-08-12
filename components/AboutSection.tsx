@@ -69,7 +69,7 @@ const AboutSection = () => {
             <br />
             <p>
                As of now, I&#39;ve completed two internships. My most recent one was at National Grid.
-               National Grid is an energy company. Here, I worked as a part of the Advanced Distribution Management
+               Here, I worked as a part of the Advanced Distribution Management
                System team, where I spent most of my time writing automation scripts and programs in Python. I was also
                a software engineering intern at the National Center for Technology and Dispute Resolution.
                Here, I worked on the development of a disaster-response app called Kapok. 
