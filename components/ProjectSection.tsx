@@ -10,12 +10,14 @@ const projects = [
     description:
       "A Python application that interfaces with data from ADMS and performs crucial load flow analysis calculations.",
     image: "/mwh1.png",
+    github: "https://github.com/iandsouza25/Load-Flow-Analysis-Calculator"
 
   },
   {
     name: "Ray Tracer",
     description: "JavaScript Ray Tracing engine that simulates light rays to create photo-realistic renderings of scenes.",
     image: "/raytracer.png",
+    github: "https://github.com/iandsouza25/Ray-Tracer"
 
   },
 ]
@@ -49,6 +51,12 @@ const ProjectsSection = () => {
                       {project.description}
                     </p>
                     <div className="flex flex-row align-bottom space-x-4">
+                    <Link href={project.github} target="_blank">
+                        <BsGithub
+                          size={30}
+                          className="hover:-translate-y-1 transition-transform cursor-pointer"
+                        />
+                      </Link>
                     </div>
                   </div>
                 </div>
